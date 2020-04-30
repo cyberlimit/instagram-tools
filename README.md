@@ -10,7 +10,7 @@ And this is collection of several developments that have been carried out so far
 ### Installation
 
 ```
-$ git clone https://github.com/masokky/instagram-tools.git
+$ git clone https://github.com/cyberlimit/instagram-tools.git
 $ cd instagram-tools
 $ node index.js
 ```
